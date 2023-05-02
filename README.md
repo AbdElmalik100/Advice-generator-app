@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors game
+# Advice generator app
 
 Responsive Front-End Mentor Challenge (HTML + CSS + JavaScript + API)
 
